@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Book Hub</string>
+    <string name="menuProfile">Profile</string>
+    <string name="menuDashboard">Dashboard</string>
+    <string name="menuFavourites">Favourites</string>
+    <string name="MenuAboutApp">About App</string>
+    <string name="book_description">Book Icon</string>
+    <string name="sharedPreferencesLogin">session</string>
+    <string name="login_register">Register</string>
+    <string name="app_icon">App Icon</string>
+    <string name="openDrawer">open drawer</string>
+    <string name="closeDrawer">close drawer</string>
+    <string name="open_drawer">Open Drawer</string>
+    <string name="close_drawer">Close Drawer</string>
+    <string name="Menulogout">Logout</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">dashboard fragment</string>
+</resources>
